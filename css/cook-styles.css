@@ -5,13 +5,18 @@ h1 {
 
 .about {
   color: teal;
-  font-famiy: futura;
-  font-style: italic;
+  font-famiy: arial;
+  font-style: normal;
 }
 
 .blog {
-  color: maroon;
+  color: orange;
   font-style: bold;
+}
+
+.description {
+  color: black;
+  font-style: normal;
 }
 
 .breakfast {
