@@ -1,0 +1,37 @@
+h1 {
+  color: darkblue;
+  font-family: futura;
+}
+
+.about {
+  color: teal;
+  font-famiy: futura;
+  font-style: italic;
+}
+
+.blog {
+  color: maroon;
+  font-style: bold;
+}
+
+.breakfast {
+  font-style: italic;
+  color: darkred;
+}
+
+.bread {
+  font-style: italic;
+  color: darkgreen;
+}
+
+.need {
+  font-style: oblique;
+  font-family: futura;
+  color: black;
+}
+
+.directions {
+  font-style: oblique;
+  font-family: futura;
+  color: gray;
+}
