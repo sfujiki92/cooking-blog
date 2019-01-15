@@ -7,6 +7,8 @@ h1 {
   color: teal;
   font-famiy: arial;
   font-style: normal;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .blog {
@@ -22,11 +24,19 @@ h1 {
 .breakfast {
   font-style: italic;
   color: darkred;
+  border: 2px solid pink;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 5px;
 }
 
 .bread {
   font-style: italic;
   color: darkgreen;
+  border: 2px solid pink;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 5px;
 }
 
 .need {
@@ -39,4 +49,10 @@ h1 {
   font-style: oblique;
   font-family: futura;
   color: gray;
+}
+
+.recipe {
+  font-size: 16;
+  font-style: normal;
+  font-family: Futura;
 }
